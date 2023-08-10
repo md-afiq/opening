@@ -1,4 +1,4 @@
-<h1 align="center">Greetings 👋, I'm Himel</h1>
+<h1 align="center">Greetings 👋, I'm afiq</h1>
 <h3 align="center">I'm a programmer, podcaster, blogger, literature geek, tech enthusiast, and the founder of Techbondhu. I've been bugging people with technical questions since I was a kid—and now I have the answers to all of your questions. If you're looking for an easy way to debug people with the touch of tech, look no further than contacting me!</h3>
 
 - 🔭 I’m currently working on [A portfolio for my school](https://bogurazillaschool.netlify.app)
